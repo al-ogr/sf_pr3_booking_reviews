@@ -44,6 +44,7 @@
 
 ### Краткая информация о данных
 Данные представлены в соревновании Kaggle [[SF-DST] Booking reviews](https://www.kaggle.com/competitions/sf-booking):
+
 Файлы данных:  
 - *hotels_train.csv* - набор данных для обучения
 - *hotels_test.csv* - набор данных для оценки качества
